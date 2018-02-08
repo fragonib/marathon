@@ -4,9 +4,7 @@
 
 ## Instructions followed to create the repo
 
-Repo is hosted on branch [repository](https://github.com/fragonib/marathon/tree/repository)
-
-https://gist.github.com/fernandezpablo85/03cf8b0cd2e7d8527063
+Repo is hosted on branch [repository](https://github.com/fragonib/marathon/tree/repository) following this [instructions](https://gist.github.com/fernandezpablo85/03cf8b0cd2e7d8527063)
 
 ## Include maven repository in your POM to reach artifacts
 
