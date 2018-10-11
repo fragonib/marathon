@@ -10,12 +10,10 @@ Repo is hosted on branch [repository](https://github.com/fragonib/marathon/tree/
 
 ```xml
 <repositories>
-
-	<repository>
-		<id>marathon-github-repo</id>
-		<name>GitHub hosted marathon repo</name>
-		<url>https://github.com/fragonib/marathon/raw/repository</url>
-	</repository>
-
+    <repository>
+        <id>marathon-github-repo</id>
+	<name>GitHub hosted marathon repo</name>
+	<url>https://raw.github.com/fragonib/marathon/repository</url>
+    </repository>
 </repositories>
 ```
